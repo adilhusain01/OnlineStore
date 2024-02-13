@@ -1,0 +1,19 @@
+{
+    "id": "unique-id-here",
+    "stock": 10,
+    "price": 23999,
+    "shipping": true,
+    "colors": ["#0000ff", "#000"],
+    "category": "bedroom",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "url": "https://www.course-api.com/images/store/product-6.jpeg"
+      }
+    ],
+    "reviews": 60,
+    "stars": 5,
+    "name": "Emperor Bed",
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "company": "IKEA"
+}
