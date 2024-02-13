@@ -1,18 +1,182 @@
-{
-    "stock": 10,
-    "price": 23999,
+[
+  {
+    "stock": 15,
+    "price": 14999,
     "shipping": true,
-    "colors": ["#0000ff", "#000"],
+    "colors": ["#8B4513", "#FFD700"],
+    "category": "living room",
+    "images": [
+      {
+        "id": "123456",
+        "url": "https://example.com/image1.jpg"
+      }
+    ],
+    "reviews": 45,
+    "stars": 4.2,
+    "name": "Vintage Leather Sofa",
+    "description": "Add a touch of elegance to your living room with this vintage leather sofa. It features high-quality leather upholstery and sturdy wooden legs.",
+    "company": "ikea"
+  },
+  {
+    "stock": 20,
+    "price": 3499,
+    "shipping": false,
+    "colors": ["#FFFFFF", "#808080"],
+    "category": "dining room",
+    "images": [
+      {
+        "id": "987654",
+        "url": "https://example.com/image2.jpg"
+      }
+    ],
+    "reviews": 30,
+    "stars": 4.0,
+    "name": "Modern Dining Table Set",
+    "description": "Upgrade your dining room with this sleek and modern dining table set. It includes a table and four chairs, perfect for family gatherings and dinner parties.",
+    "company": "liddy"
+  },
+  {
+    "stock": 8,
+    "price": 9999,
+    "shipping": true,
+    "colors": ["#800000", "#FF4500"],
     "category": "bedroom",
     "images": [
       {
-        "id": "attub6EG88kJKuYs8",
-        "url": "https://www.course-api.com/images/store/product-6.jpeg"
+        "id": "246810",
+        "url": "https://example.com/image3.jpg"
       }
     ],
-    "reviews": 60,
-    "stars": 5,
-    "name": "Emperor Bed",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-    "company": "IKEA"
-}
+    "reviews": 20,
+    "stars": 4.5,
+    "name": "Queen Size Canopy Bed",
+    "description": "Create a luxurious bedroom retreat with this elegant queen size canopy bed. It features intricate metalwork and comes with curtains for added privacy.",
+    "company": "caressa"
+  },
+  {
+    "stock": 12,
+    "price": 7999,
+    "shipping": false,
+    "colors": ["#006400", "#F0E68C"],
+    "category": "office",
+    "images": [
+      {
+        "id": "135791",
+        "url": "https://example.com/image4.jpg"
+      }
+    ],
+    "reviews": 25,
+    "stars": 4.8,
+    "name": "Executive Office Desk",
+    "description": "Boost your productivity with this stylish executive office desk. It features ample storage space and a sleek design that will complement any office decor.",
+    "company": "marcos"
+  },
+  {
+    "stock": 18,
+    "price": 5999,
+    "shipping": true,
+    "colors": ["#0000FF", "#000"],
+    "category": "living room",
+    "images": [
+      {
+        "id": "112233",
+        "url": "https://example.com/image5.jpg"
+      }
+    ],
+    "reviews": 40,
+    "stars": 4.3,
+    "name": "Sectional Sofa Set",
+    "description": "Transform your living room into a cozy and inviting space with this sectional sofa set. It features plush cushions and a modular design for versatility.",
+    "company": "ikea"
+  },
+  {
+    "stock": 10,
+    "price": 17999,
+    "shipping": false,
+    "colors": ["#8B4513", "#FFD700"],
+    "category": "bedroom",
+    "images": [
+      {
+        "id": "314159",
+        "url": "https://example.com/image6.jpg"
+      }
+    ],
+    "reviews": 35,
+    "stars": 4.6,
+    "name": "King Size Platform Bed",
+    "description": "Sleep like royalty in this luxurious king size platform bed. It features a sturdy wood frame and a stylish upholstered headboard for added comfort.",
+    "company": "liddy"
+  },
+  {
+    "stock": 25,
+    "price": 4499,
+    "shipping": true,
+    "colors": ["#FFFFFF", "#808080"],
+    "category": "dining room",
+    "images": [
+      {
+        "id": "271828",
+        "url": "https://example.com/image7.jpg"
+      }
+    ],
+    "reviews": 50,
+    "stars": 4.7,
+    "name": "Glass Top Dining Table",
+    "description": "Entertain in style with this elegant glass top dining table. It features a contemporary design and a sturdy metal base for stability.",
+    "company": "caressa"
+  },
+  {
+    "stock": 7,
+    "price": 5999,
+    "shipping": false,
+    "colors": ["#800000", "#FF4500"],
+    "category": "bedroom",
+    "images": [
+      {
+        "id": "314159",
+        "url": "https://example.com/image8.jpg"
+      }
+    ],
+    "reviews": 15,
+    "stars": 4.0,
+    "name": "Cherry Wood Dresser",
+    "description": "Organize your bedroom with this beautiful cherry wood dresser. It features spacious drawers and classic design details.",
+    "company": "marcos"
+  },
+  {
+    "stock": 22,
+    "price": 6999,
+    "shipping": true,
+    "colors": ["#006400", "#F0E68C"],
+    "category": "office",
+    "images": [
+      {
+        "id": "271828",
+        "url": "https://example.com/image9.jpg"
+      }
+    ],
+    "reviews": 55,
+    "stars": 4.9,
+    "name": "L-Shaped Computer Desk",
+    "description": "Maximize your workspace with this practical L-shaped computer desk. It features a durable construction and plenty of surface area for all your tasks.",
+    "company": "ikea"
+  },
+  {
+    "stock": 30,
+    "price": 9999,
+    "shipping": false,
+    "colors": ["#0000FF", "#000"],
+    "category": "living room",
+    "images": [
+      {
+        "id": "987654",
+        "url": "https://example.com/image10.jpg"
+      }
+    ],
+    "reviews": 65,
+    "stars": 4.5,
+    "name": "Reclining Sectional Sofa",
+    "description": "Relax in style with this luxurious reclining sectional sofa. It features plush cushions and adjustable headrests for personalized comfort.",
+    "company": "liddy"
+  }
+]
