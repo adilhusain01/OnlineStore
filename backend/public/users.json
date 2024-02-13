@@ -1,0 +1,14 @@
+{
+    "username": "dummyuser2",
+    "email": "dummyuser2@example.com",
+    "password": "password123",
+    "firstName": "Dummy",
+    "lastName": "User",
+    "dateOfBirth": "1990-01-01",
+    "address": "123 Dummy Street",
+    "city": "Dummyville",
+    "state": "Dummystate",
+    "country": "Dummyland",
+    "postalCode": "12345",
+    "phoneNumber": "123-456-7890"
+}
