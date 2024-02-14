@@ -4,7 +4,6 @@ const app = express();
 const productRouter = require("./src/routes/productRoutes");
 const userRouter = require("./src/routes/userRoutes");
 const errorHandleMiddleWare = require("./src/middlewares/errorHandlers");
-const notFoundMiddleWare = require("./src/middlewares/notFound");
 const mongoose = require("mongoose");
 
 const PORT = process.env.PORT || 8000;
@@ -21,9 +20,6 @@ app.use(express.urlencoded({extended: false}));
 
 const dotenv = require("dotenv");
 dotenv.config();
-
-app.use(errorHandleMiddleWare);
-app.use(notFoundMiddleWare);
 
 mongoose.connect(`${process.env.MONGO_CONNECTION}`).then(() => console.log("Connectd to mongoDB")).catch((error) => console.log(error));
 
